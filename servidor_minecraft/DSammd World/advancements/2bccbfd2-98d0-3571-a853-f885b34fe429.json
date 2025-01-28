@@ -41,6 +41,12 @@
     },
     "done": false
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-28 23:36:36 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-01-28 23:18:18 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-28 23:36:36 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-01-28 23:18:24 +0000"
@@ -162,6 +174,12 @@
       "log_spam_fixer": "2025-01-28 23:18:25 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-28 23:33:21 +0000"
+    },
+    "done": true
   },
   "mekanism:root": {
     "criteria": {
@@ -211,9 +229,21 @@
     },
     "done": true
   },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-01-28 23:37:04 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/spellbooks/natures_wrath": {
     "criteria": {
       "requirement": "2025-01-28 23:18:24 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-01-28 23:36:36 +0000"
     },
     "done": true
   },
@@ -255,6 +285,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-28 23:36:36 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_acacia_planks": {
     "criteria": {
       "has_ingredient": "2025-01-28 23:18:18 +0000"
@@ -264,6 +300,18 @@
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2025-01-28 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-28 23:35:39 +0000"
+    },
+    "done": false
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-01-28 23:37:04 +0000"
     },
     "done": true
   },
@@ -297,6 +345,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-28 23:36:36 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_dark_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-01-28 23:18:18 +0000"
@@ -318,6 +372,12 @@
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
     "criteria": {
       "requirement": "2025-01-28 23:18:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-01-28 23:36:36 +0000"
     },
     "done": true
   },

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-01-28 23:39:50 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_jungle_planks": {
     "criteria": {
       "has_ingredient": "2025-01-28 23:18:55 +0000"
@@ -186,6 +192,18 @@
     },
     "done": false
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-28 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-28 23:39:50 +0000"
+    },
+    "done": false
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-01-28 23:18:55 +0000"
@@ -246,12 +264,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-28 23:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-01-28 23:19:45 +0000",
       "minecraft:forest": "2025-01-28 23:19:27 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-28 23:36:01 +0000"
+    },
+    "done": true
   },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
     "criteria": {
@@ -289,6 +319,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-28 23:36:01 +0000",
+      "bread": "2025-01-28 23:39:59 +0000"
+    },
+    "done": false
+  },
   "beautify:trellis": {
     "criteria": {
       "requirement": "2025-01-28 23:20:46 +0000"
@@ -300,6 +337,12 @@
       "log_spam_fixer": "2025-01-28 23:18:56 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-28 23:36:01 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
