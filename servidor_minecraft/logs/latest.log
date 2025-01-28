@@ -2330,3 +2330,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [28Jan2025 23:36:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Diamonds!]
 [28Jan2025 23:39:50.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Monster Hunter]
 [28Jan2025 23:41:24.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lynn'/2957, l='ServerLevel[DSammd World]', x=245.50, y=76.00, z=167.03] died, message: 'Lynn was shot by Pillager'
+[28Jan2025 23:47:52.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Thomas'/2569, l='ServerLevel[DSammd World]', x=219.85, y=74.00, z=134.63] died, message: 'Thomas liquified to Fanta juice'
+[28Jan2025 23:51:42.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Magic Writing]
