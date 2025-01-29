@@ -41,9 +41,21 @@
     },
     "done": false
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-01-28 23:59:09 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-01-28 23:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-28 23:58:34 +0000"
     },
     "done": true
   },
@@ -318,6 +330,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-29 00:02:31 +0000",
+      "cooked_beef": "2025-01-28 23:58:01 +0000",
       "bread": "2025-01-28 23:35:39 +0000"
     },
     "done": false
