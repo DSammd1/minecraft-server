@@ -16711,3 +16711,45 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [29Jan2025 05:45:16.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_6
 [29Jan2025 05:45:16.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/zombie_spawner_room
 [29Jan2025 05:47:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has completed the challenge [One eyed big skelly]
+[29Jan2025 05:47:46.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[29Jan2025 05:47:46.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[29Jan2025 05:49:49.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd was slain by Zombie
+[29Jan2025 05:49:49.958] [Server thread/DEBUG] [tombstone/]: A new grave of the player DSammd was created at position [x:-413, y:7, z:212, dim:minecraft:overworld]
+[29Jan2025 05:49:49.967] [Server thread/INFO] [tombstone/]: The player DSammd has successfully been saved
+[29Jan2025 05:50:02.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> pipipi no la vi venirxd
+[29Jan2025 05:51:13.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Where Is The Stone Pen?]
+[29Jan2025 05:51:39.114] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[29Jan2025 05:51:39.122] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[29Jan2025 05:51:39.129] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house2 is being run through DFU (hash 7f0f0b61ae95427889f725d73673f4a40cd5fabdaf00ca57b42d09131986d7d9), this will cause launch time delays
+[29Jan2025 05:52:46.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[29Jan2025 05:52:46.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[29Jan2025 05:53:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [Bone Crusher]
+[29Jan2025 05:54:26.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Acquire Hardware]
+[29Jan2025 05:57:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Chest Slayer]
+[29Jan2025 05:57:46.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[29Jan2025 05:57:46.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[29Jan2025 05:58:11.294] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=239, y=67, z=14}) doesn't have enough leaves around top most log
+[29Jan2025 05:58:12.691] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=239, y=68, z=14}) doesn't have enough leaves around top most log
+[29Jan2025 05:58:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Stone Age]
+[29Jan2025 05:58:19.213] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[29Jan2025 05:58:19.253] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[29Jan2025 05:58:19.265] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound1 is being run through DFU (hash ccb239572ccdbbd2a9173437425a34dddcdf556b5a0d5e8c046f9eed2b4cb466), this will cause launch time delays
+[29Jan2025 06:00:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Night Night]
+[29Jan2025 06:02:11.695] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/bee_dome
+[29Jan2025 06:02:38.556] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[29Jan2025 06:02:46.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[29Jan2025 06:02:46.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[29Jan2025 06:03:05.807] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/root
+[29Jan2025 06:03:06.453] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[29Jan2025 06:04:22.566] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[29Jan2025 06:07:46.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[29Jan2025 06:07:46.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[29Jan2025 06:08:59.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by Dread Hound
+[29Jan2025 06:08:59.291] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mcgarden was created at position [x:250, y:62, z:14, dim:minecraft:overworld]
+[29Jan2025 06:08:59.303] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[29Jan2025 06:09:14.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> casi lo mato
+[29Jan2025 06:09:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xddd
+[29Jan2025 06:10:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Here They Come]
+[29Jan2025 06:12:46.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[29Jan2025 06:12:46.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[29Jan2025 06:14:32.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ya esta nuestra casa?
