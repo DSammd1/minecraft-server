@@ -1815,3 +1815,41 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [29Jan2025 05:06:17.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Your First Grave]
 [29Jan2025 05:06:17.430] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
 [29Jan2025 05:06:22.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xd
+[29Jan2025 05:07:38.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> me aparecio un moob con 100 de vida
+[29Jan2025 05:07:56.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> estabas asustado, no podias moverte? xd
+[29Jan2025 05:07:59.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> el meme xdd
+[29Jan2025 05:08:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Suit Up]
+[29Jan2025 05:10:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [A Seedy Place]
+[29Jan2025 05:11:56.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=60, z=5} BlockPos{x=0, y=60, z=2}
+[29Jan2025 05:11:56.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=60, z=5} BlockPos{x=-1, y=60, z=2}
+[29Jan2025 05:11:57.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=60, z=5} BlockPos{x=1, y=60, z=2}
+[29Jan2025 05:14:07.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=1, y=64, z=2}
+[29Jan2025 05:14:08.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=1, y=64, z=2}
+[29Jan2025 05:14:08.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=1, y=64, z=2}
+[29Jan2025 05:14:08.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=1, y=64, z=2}
+[29Jan2025 05:14:08.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=1, y=64, z=2}
+[29Jan2025 05:14:10.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=0, y=64, z=2}
+[29Jan2025 05:14:12.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=-1, y=64, z=2}
+[29Jan2025 05:14:12.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=-2, y=64, z=2}
+[29Jan2025 05:14:12.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=-2, y=64, z=2}
+[29Jan2025 05:14:12.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=64, z=3} BlockPos{x=-2, y=64, z=2}
+[29Jan2025 05:26:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Crops of the Wild]
+[29Jan2025 05:28:00.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Cover Me with Diamonds]
+[29Jan2025 05:28:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Sweet Dreams]
+[29Jan2025 05:30:20.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [Strong or Careful]
+[29Jan2025 05:30:20.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd was slain by Zombie
+[29Jan2025 05:30:20.866] [Server thread/INFO] [tombstone/]: The player DSammd has successfully been saved
+[29Jan2025 05:30:26.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [The Most Useful Key]
+[29Jan2025 05:30:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> que
+[29Jan2025 05:30:31.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xddd
+[29Jan2025 05:30:39.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> cierto faltaelmod para revivir xdd
+[29Jan2025 05:30:49.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [A Fast Comeback]
+[29Jan2025 05:31:04.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> mancos no mas mueren
+[29Jan2025 05:32:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Iron Torch]
+[29Jan2025 05:42:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Deceived Hopes]
+[29Jan2025 05:42:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Magic Writing]
+[29Jan2025 05:43:26.196] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:tower_ruin], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / stellarity:village], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village]] from pos BlockPos{x=309, y=71, z=-181}
+[29Jan2025 05:43:30.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
+[29Jan2025 05:43:37.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Diamonds!]
+[29Jan2025 05:43:51.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Amateur Archaeologist]
+[29Jan2025 05:47:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has completed the challenge [One eyed big skelly]
