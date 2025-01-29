@@ -1869,3 +1869,18 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [29Jan2025 06:09:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xddd
 [29Jan2025 06:10:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Here They Come]
 [29Jan2025 06:14:32.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ya esta nuestra casa?
+[29Jan2025 06:20:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Minecraft Comes Alive]
+[29Jan2025 06:21:50.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[29Jan2025 06:23:42.990] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[29Jan2025 06:23:42.990] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[29Jan2025 06:23:42.991] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[29Jan2025 06:23:42.991] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[29Jan2025 06:23:42.991] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[29Jan2025 06:24:30.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Isn't It Iron Pick]
+[29Jan2025 06:25:06.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSammd lost connection: Disconnected
+[29Jan2025 06:25:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd left the game
+[29Jan2025 06:25:13.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:47101] logged in with entity id 96268 at (-2.699999988079071, 63.0, 78.45251980817544)
+[29Jan2025 06:25:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
+[29Jan2025 06:25:13.484] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
+[29Jan2025 06:25:15.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSammd lost connection: Disconnected
+[29Jan2025 06:25:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd left the game

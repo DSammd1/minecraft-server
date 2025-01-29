@@ -540,84 +540,6 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-29 05:57:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-01-29 05:08:32 +0000"
-    },
-    "done": true
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2025-01-29 05:06:47 +0000"
-    },
-    "done": true
-  },
-  "croptopia:knife": {
-    "criteria": {
-      "knife": "2025-01-29 05:32:49 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:oneskelly": {
-    "criteria": {
-      "oneskelly_0": "2025-01-29 05:47:06 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-29 04:08:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-01-29 05:53:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-01-29 04:10:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-29 05:58:13 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-01-29 04:18:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2025-01-29 04:22:47 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-29 04:22:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-01-29 05:28:00 +0000"
-    },
-    "done": true
-  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_ruined_building": "2025-01-29 04:06:31 +0000"
@@ -630,27 +552,75 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-01-29 05:30:49 +0000"
-    },
-    "done": true
-  },
-  "beautify:candelabras": {
-    "criteria": {
-      "requirement": "2025-01-29 05:32:13 +0000"
-    },
-    "done": true
-  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-29 04:07:40 +0000"
     },
     "done": true
   },
-  "undead_revamp2:nightnight": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "nightnight_0": "2025-01-29 06:00:52 +0000"
+      "coded_trigger": "2025-01-29 04:08:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 04:08:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-29 04:10:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-29 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 04:22:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-01-29 04:57:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-01-29 05:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-29 05:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-29 05:08:32 +0000"
     },
     "done": true
   },
@@ -666,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-29 05:28:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-29 05:30:20 +0000"
@@ -678,9 +654,57 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "coded_trigger": "2025-01-29 04:08:29 +0000"
+      "coded_trigger": "2025-01-29 05:30:49 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-01-29 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-01-29 05:32:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-01-29 05:42:11 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-01-29 05:47:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 05:53:50 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-29 05:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-29 05:58:13 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-01-29 06:00:52 +0000"
     },
     "done": true
   },
@@ -690,29 +714,77 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "coded_trigger": "2025-01-29 04:22:21 +0000"
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
     },
-    "done": true
+    "done": false
   },
-  "stellarity:story/obtain_an_ender_pearl": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "criteria": "2025-01-29 04:57:04 +0000"
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:story/root": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "crafting_table": "2025-01-29 05:06:47 +0000"
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
     },
-    "done": true
+    "done": false
   },
-  "born_in_chaos_v1:deceived_hopes": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "deceived_hopes_0": "2025-01-29 05:42:11 +0000"
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-29 06:24:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
