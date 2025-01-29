@@ -1884,3 +1884,15 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [29Jan2025 06:25:13.484] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
 [29Jan2025 06:25:15.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSammd lost connection: Disconnected
 [29Jan2025 06:25:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd left the game
+[29Jan2025 06:27:54.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:35301] logged in with entity id 96873 at (-3.3696717739105226, 64.42297455072404, 78.40060356652963)
+[29Jan2025 06:27:54.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
+[29Jan2025 06:27:54.732] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
+[29Jan2025 06:28:28.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> toca dormir ya xd
+[29Jan2025 06:28:40.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> ja hoy es amanecida
+[29Jan2025 06:28:52.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xddd
+[29Jan2025 06:30:24.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> cada que mebota, se descoonfigura todo mis controles xd
+[29Jan2025 06:30:36.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> a mi no me bota
+[29Jan2025 06:30:52.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> creo tengo un archivo dañado xd
+[29Jan2025 06:42:37.615] [Server thread/INFO] [tombstone/]: The player DSammd has successfully been saved
+[29Jan2025 06:54:13.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> a mimir
+[29Jan2025 06:54:15.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> zzzzzz
