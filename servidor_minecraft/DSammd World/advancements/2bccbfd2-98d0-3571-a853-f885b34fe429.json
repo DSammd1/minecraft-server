@@ -308,6 +308,7 @@
       "minecraft:beach": "2025-01-28 23:20:01 +0000",
       "minecraft:river": "2025-01-29 00:06:14 +0000",
       "minecraft:forest": "2025-01-28 23:18:25 +0000",
+      "minecraft:lush_caves": "2025-01-29 05:00:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-29 00:06:20 +0000"
     },
     "done": false
@@ -385,6 +386,7 @@
       "cooked_porkchop": "2025-01-29 04:24:17 +0000",
       "cooked_mutton": "2025-01-29 00:02:31 +0000",
       "cooked_beef": "2025-01-28 23:58:01 +0000",
+      "baked_potato": "2025-01-29 04:55:36 +0000",
       "apple": "2025-01-29 04:00:19 +0000",
       "bread": "2025-01-28 23:35:39 +0000",
       "cooked_rabbit": "2025-01-29 04:08:06 +0000",
@@ -592,6 +594,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-01-29 04:22:21 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-01-29 04:57:04 +0000"
     },
     "done": true
   },

@@ -1803,3 +1803,15 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [29Jan2025 04:29:05.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> toca chetarse
 [29Jan2025 04:29:10.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> entrare a una dangeun
 [29Jan2025 04:37:17.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> duerme
+[29Jan2025 04:57:04.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [Eye of Darkness]
+[29Jan2025 04:57:34.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=60, z=3} BlockPos{x=-1, y=60, z=2}
+[29Jan2025 04:59:25.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=59, z=2} BlockPos{x=-1, y=59, z=1}
+[29Jan2025 04:59:25.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=59, z=2} BlockPos{x=-2, y=59, z=1}
+[29Jan2025 05:01:43.014] [Worker-Main-1/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from not a SinglePoolElement class
+[29Jan2025 05:01:43.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[29Jan2025 05:06:17.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Knowledge of Death]
+[29Jan2025 05:06:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Strong or Careful]
+[29Jan2025 05:06:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by Dire Hound Leader
+[29Jan2025 05:06:17.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Your First Grave]
+[29Jan2025 05:06:17.430] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[29Jan2025 05:06:22.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xd
