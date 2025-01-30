@@ -418,6 +418,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-30 04:52:36 +0000",
       "apple": "2025-01-28 23:36:01 +0000",
       "bread": "2025-01-28 23:39:59 +0000",
       "golden_apple": "2025-01-30 04:22:28 +0000",
@@ -726,9 +727,27 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-01-30 04:56:29 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-01-30 04:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-30 04:21:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-01-30 04:54:59 +0000"
     },
     "done": true
   },
