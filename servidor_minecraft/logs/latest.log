@@ -1775,3 +1775,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [30Jan2025 02:55:08.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:40415] logged in with entity id 9022 at (-352.95633438700526, 94.0, 196.63576083184236)
 [30Jan2025 02:55:08.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
 [30Jan2025 02:55:08.987] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
+[30Jan2025 03:14:46.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSammd lost connection: Disconnected
+[30Jan2025 03:14:46.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd left the game

@@ -324,9 +324,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-01-30 03:17:31 +0000",
       "log_spam_fixer": "2025-01-28 23:18:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -499,7 +500,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-01-29 05:10:33 +0000"
+      "cabbage": "2025-01-30 03:09:35 +0000",
+      "wheat": "2025-01-29 05:10:33 +0000",
+      "melon": "2025-01-30 03:09:31 +0000",
+      "pumpkin": "2025-01-30 03:09:27 +0000",
+      "carrot": "2025-01-30 03:09:06 +0000"
     },
     "done": false
   },
