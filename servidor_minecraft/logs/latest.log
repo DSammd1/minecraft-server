@@ -2134,3 +2134,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [30Jan2025 06:17:44.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> yap
 [30Jan2025 06:17:49.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mcgarden lost connection: Disconnected
 [30Jan2025 06:17:49.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden left the game
+[30Jan2025 06:36:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Spectator Mode]
+[30Jan2025 06:38:05.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[30Jan2025 06:39:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 21 entities]
