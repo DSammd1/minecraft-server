@@ -521,6 +521,7 @@
       "minecraft:pillager": "2025-01-29 04:08:29 +0000",
       "minecraft:skeleton": "2025-01-29 04:36:26 +0000",
       "minecraft:spider": "2025-01-29 04:36:02 +0000",
+      "minecraft:evoker": "2025-01-30 05:20:28 +0000",
       "minecraft:cave_spider": "2025-01-29 05:06:29 +0000",
       "minecraft:stray": "2025-01-29 05:11:25 +0000",
       "minecraft:zombie": "2025-01-29 03:58:38 +0000",
@@ -711,6 +712,18 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-01-29 06:07:34 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-01-30 05:15:18 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-01-30 05:15:18 +0000"
     },
     "done": true
   },
