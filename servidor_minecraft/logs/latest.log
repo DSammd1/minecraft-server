@@ -1771,3 +1771,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [30Jan2025 02:44:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by The Moonflower
 [30Jan2025 02:44:06.928] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
 [30Jan2025 02:46:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Suit Up]
+[30Jan2025 02:52:07.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Mine? Mine? Mine?]
+[30Jan2025 02:55:08.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:40415] logged in with entity id 9022 at (-352.95633438700526, 94.0, 196.63576083184236)
+[30Jan2025 02:55:08.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
+[30Jan2025 02:55:08.987] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
