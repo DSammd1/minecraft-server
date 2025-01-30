@@ -1765,3 +1765,9 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [30Jan2025 02:23:09.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden joined the game
 [30Jan2025 02:23:09.233] [Server thread/INFO] [Jade/]: Syncing config to Mcgarden (f99efff2-46c1-3aff-a2a5-e6a400aefb9f)
 [30Jan2025 02:23:15.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6318ms or 126 ticks behind
+[30Jan2025 02:43:26.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by The Moonflower
+[30Jan2025 02:43:26.398] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[30Jan2025 02:44:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Chain Death]
+[30Jan2025 02:44:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by The Moonflower
+[30Jan2025 02:44:06.928] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[30Jan2025 02:46:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Suit Up]

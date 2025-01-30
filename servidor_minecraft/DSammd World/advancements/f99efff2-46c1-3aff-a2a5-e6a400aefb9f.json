@@ -629,5 +629,17 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-30 02:46:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 02:44:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
