@@ -2129,3 +2129,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [30Jan2025 05:44:15.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:47805] logged in with entity id 317799 at (-372.8202217359838, 105.20000004768372, 219.93535321105833)
 [30Jan2025 05:44:15.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
 [30Jan2025 05:44:15.518] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
+[30Jan2025 06:17:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> ya me voya mimir}
+[30Jan2025 06:17:44.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> bye
+[30Jan2025 06:17:44.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> yap
+[30Jan2025 06:17:49.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mcgarden lost connection: Disconnected
+[30Jan2025 06:17:49.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden left the game
