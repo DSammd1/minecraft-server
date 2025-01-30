@@ -1777,3 +1777,104 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [30Jan2025 02:55:08.987] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
 [30Jan2025 03:14:46.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSammd lost connection: Disconnected
 [30Jan2025 03:14:46.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd left the game
+[30Jan2025 03:27:57.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:54263] logged in with entity id 20044 at (-352.9022304018984, 95.0, 203.69999998807907)
+[30Jan2025 03:27:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
+[30Jan2025 03:27:57.220] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
+[30Jan2025 03:29:16.907] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:29:17.036] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:29:18.141] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[30Jan2025 03:29:18.427] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:iron_axe"}
+[30Jan2025 03:29:18.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Generated structure "minecraft:mansion" at -356, 88, 171]
+[30Jan2025 03:34:00.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [A Strange Grave Dust]
+[30Jan2025 03:37:31.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> vete xd
+[30Jan2025 03:37:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> que hay {
+[30Jan2025 03:37:52.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> cosas ilegales xddd
+[30Jan2025 03:38:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 47 entities]
+[30Jan2025 03:39:34.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> aqui habra totem
+[30Jan2025 03:39:41.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xd
+[30Jan2025 03:41:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> cuando estemos mas chetos volvemos
+[30Jan2025 03:41:20.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xd
+[30Jan2025 03:41:30.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ya estoy chetado xd
+[30Jan2025 03:41:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> lo hare mi casa xd
+[30Jan2025 03:42:48.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mcgarden was kicked for floating too long!
+[30Jan2025 03:42:48.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mcgarden lost connection: Flying is not enabled on this server
+[30Jan2025 03:42:48.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden left the game
+[30Jan2025 03:42:48.525] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jan2025 03:43:29.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mcgarden[/127.223.230.248:35517] logged in with entity id 30432 at (-274.8353945524422, 93.55336086364957, 234.878125961979)
+[30Jan2025 03:43:29.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden joined the game
+[30Jan2025 03:43:29.847] [Server thread/INFO] [Jade/]: Syncing config to Mcgarden (f99efff2-46c1-3aff-a2a5-e6a400aefb9f)
+[30Jan2025 03:44:52.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[30Jan2025 03:45:34.372] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:45:34.382] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:45:35.003] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:iron_axe"}
+[30Jan2025 03:45:35.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[30Jan2025 03:45:35.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Generated structure "minecraft:mansion" at -350, 83, 174]
+[30Jan2025 03:45:51.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [This Must be a Sign!]
+[30Jan2025 03:46:12.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 50 entities]
+[30Jan2025 03:46:16.226] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:46:16.233] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:46:16.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[30Jan2025 03:46:17.059] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:iron_axe"}
+[30Jan2025 03:46:17.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Generated structure "minecraft:mansion" at -361, 83, 175]
+[30Jan2025 03:46:18.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[30Jan2025 03:47:00.107] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:47:00.116] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:47:00.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[30Jan2025 03:47:01.187] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:iron_axe"}
+[30Jan2025 03:47:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Generated structure "minecraft:mansion" at -369, 93, 199]
+[30Jan2025 03:47:02.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30Jan2025 03:47:07.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Spectator Mode]
+[30Jan2025 03:47:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 1826 entities]
+[30Jan2025 03:47:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[30Jan2025 03:47:55.126] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:47:55.134] [Server thread/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[30Jan2025 03:47:55.310] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:iron_axe"}
+[30Jan2025 03:47:55.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[30Jan2025 03:47:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Generated structure "minecraft:mansion" at -376, 96, 243]
+[30Jan2025 03:49:24.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Gave 1 [Structure Block] to DSammd]
+[30Jan2025 03:51:34.898] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Jan2025 03:51:34.898] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Jan2025 03:53:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 16362 block(s)]
+[30Jan2025 03:53:47.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 650 entities]
+[30Jan2025 03:53:59.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 6622 block(s)]
+[30Jan2025 03:54:03.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 109 entities]
+[30Jan2025 03:54:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 12000 block(s)]
+[30Jan2025 03:54:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 606 entities]
+[30Jan2025 03:55:06.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 6696 block(s)]
+[30Jan2025 03:55:16.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 7450 block(s)]
+[30Jan2025 03:55:20.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 280 entities]
+[30Jan2025 03:55:32.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 8384 block(s)]
+[30Jan2025 03:55:36.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 265 entities]
+[30Jan2025 03:55:55.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 5385 block(s)]
+[30Jan2025 03:55:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 161 entities]
+[30Jan2025 03:56:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 5239 block(s)]
+[30Jan2025 03:56:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 4260 block(s)]
+[30Jan2025 03:56:20.727] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[30Jan2025 03:56:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 3166 block(s)]
+[30Jan2025 03:56:28.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 348 entities]
+[30Jan2025 03:56:37.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 3872 block(s)]
+[30Jan2025 03:56:47.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 3506 block(s)]
+[30Jan2025 03:56:54.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 3762 block(s)]
+[30Jan2025 03:56:56.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Not Today, Thank You]
+[30Jan2025 03:57:01.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 1832 block(s)]
+[30Jan2025 03:57:05.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Killed 203 entities]
+[30Jan2025 03:57:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Ambush]
+[30Jan2025 03:57:16.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 809 block(s)]
+[30Jan2025 03:57:23.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 857 block(s)]
+[30Jan2025 03:57:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 338 block(s)]
+[30Jan2025 03:57:38.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 315 block(s)]
+[30Jan2025 03:57:47.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 217 block(s)]
+[30Jan2025 03:57:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 128 block(s)]
+[30Jan2025 03:58:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 49 block(s)]
+[30Jan2025 03:58:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by Vindicator
+[30Jan2025 03:58:11.549] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[30Jan2025 03:58:16.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 39 block(s)]
+[30Jan2025 03:58:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> la llave no funciona pikpipi
+[30Jan2025 03:58:52.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> tienes que subir denivel la demuerte
+[30Jan2025 03:59:18.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> cuanto mates zombies, un mensaje te sal
+[30Jan2025 03:59:29.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> tipo dale clic aqui o algo asi xd
+[30Jan2025 03:59:33.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ahi tienes para subir
+[30Jan2025 03:59:49.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 19 block(s)]
+[30Jan2025 03:59:58.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 6 block(s)]
+[30Jan2025 04:00:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 6 block(s)]
+[30Jan2025 04:00:14.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Successfully filled 4 block(s)]
