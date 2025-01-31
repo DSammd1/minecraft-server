@@ -1770,3 +1770,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 01:21:40.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Postmortal]
 [31Jan2025 01:21:40.118] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
 [31Jan2025 01:24:06.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Ashes 'n Bones]
+[31Jan2025 01:29:36.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=-9, z=-32} BlockPos{x=-83, y=-8, z=-34}
+[31Jan2025 01:29:36.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=-9, z=-33} BlockPos{x=-83, y=-8, z=-34}
