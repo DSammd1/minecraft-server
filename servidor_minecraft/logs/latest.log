@@ -1839,3 +1839,20 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 04:24:44.304] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
 [31Jan2025 04:25:40.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has completed the challenge [My Bald Satanic Goth Girl Friend]
 [31Jan2025 04:25:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [First big catch of the month!]
+[31Jan2025 05:06:32.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:52547] logged in with entity id 111091 at (289.76764554562806, 121.0, 804.8716357971495)
+[31Jan2025 05:06:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
+[31Jan2025 05:06:32.606] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
+[31Jan2025 05:06:53.420] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:marketstead_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped]] from pos BlockPos{x=-229, y=87, z=635}
+[31Jan2025 05:07:03.741] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[31Jan2025 05:09:36.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Safe Haven]
+[31Jan2025 05:11:32.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [The Bearclaw Inn]
+[31Jan2025 05:12:45.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ljubo'/115610, l='ServerLevel[DSammd World]', x=664.29, y=89.00, z=741.73] died, message: 'Ljubo burned to death'
+[31Jan2025 05:14:43.828] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[31Jan2025 05:15:36.319] [Worker-Main-121/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [30, 76], pos: MutableBlockPos{x=480, y=16, z=1228}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[31Jan2025 05:15:36.319] [Worker-Main-121/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [30, 76], pos: MutableBlockPos{x=480, y=17, z=1228}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[31Jan2025 05:17:56.422] [Worker-Main-119/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[31Jan2025 05:18:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Ol' Betsy]
+[31Jan2025 05:18:29.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Take Aim]
+[31Jan2025 05:19:46.036] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[31Jan2025 05:19:59.885] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=810, y=-27, z=1235}
+[31Jan2025 05:20:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Mine? Mine? Mine?]
