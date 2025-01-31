@@ -15022,3 +15022,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 03:46:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Exorcism]
 [31Jan2025 03:48:13.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
 [31Jan2025 03:48:13.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:51:23.293] [Server thread/DEBUG] [Retraining/]: Loaded com.mrbysco.retraining.platform.ForgePlatformHelper@1965a164 for service interface com.mrbysco.retraining.platform.services.IPlatformHelper
+[31Jan2025 03:53:13.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:53:13.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:58:13.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:58:13.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
