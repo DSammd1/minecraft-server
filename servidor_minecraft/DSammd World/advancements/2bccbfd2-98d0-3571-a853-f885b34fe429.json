@@ -390,6 +390,7 @@
       "baked_potato": "2025-01-29 04:55:36 +0000",
       "apple": "2025-01-29 04:00:19 +0000",
       "bread": "2025-01-28 23:35:39 +0000",
+      "golden_carrot": "2025-01-31 03:15:40 +0000",
       "cooked_rabbit": "2025-01-29 04:08:06 +0000",
       "cooked_chicken": "2025-01-29 04:21:48 +0000"
     },
@@ -740,6 +741,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-31 03:08:52 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:storing_externally": {
     "criteria": {
       "external_storage_in_inventory": "2025-01-31 02:28:09 +0000"
@@ -752,9 +759,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-31 03:17:20 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:connecting": {
     "criteria": {
       "cable_in_inventory": "2025-01-31 02:29:10 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-01-31 03:15:02 +0000"
     },
     "done": true
   },

@@ -1794,3 +1794,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 02:53:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden joined the game
 [31Jan2025 02:53:50.483] [Server thread/INFO] [Jade/]: Syncing config to Mcgarden (f99efff2-46c1-3aff-a2a5-e6a400aefb9f)
 [31Jan2025 03:08:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Bonfire Lit]
+[31Jan2025 03:14:17.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
+[31Jan2025 03:14:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[31Jan2025 03:15:02.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [Half a flight]
+[31Jan2025 03:15:06.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
+[31Jan2025 03:17:20.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Dark Metallurgy]
