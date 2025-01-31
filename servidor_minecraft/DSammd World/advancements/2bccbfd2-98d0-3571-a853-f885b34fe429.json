@@ -746,6 +746,18 @@
     },
     "done": true
   },
+  "refinedstorage:exporting": {
+    "criteria": {
+      "exporter_in_inventory": "2025-01-31 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-01-31 02:29:10 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:importing": {
     "criteria": {
       "importer_in_inventory": "2025-01-31 02:28:12 +0000"
