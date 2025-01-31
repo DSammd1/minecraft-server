@@ -1799,3 +1799,28 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 03:15:02.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [Half a flight]
 [31Jan2025 03:15:06.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
 [31Jan2025 03:17:20.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Dark Metallurgy]
+[31Jan2025 03:21:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ves transparente los cristales?
+[31Jan2025 03:21:46.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ves los bordes?
+[31Jan2025 03:21:50.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> si
+[31Jan2025 03:22:11.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> se vefeo xd
+[31Jan2025 03:22:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> los cristales
+[31Jan2025 03:22:27.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> que podria poner
+[31Jan2025 03:22:28.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> creo debi poner ese mod que une cristales sin dar borde
+[31Jan2025 03:23:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> haz encontrado laestatua para subir corazones?
+[31Jan2025 03:24:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> nada
+[31Jan2025 03:24:36.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> aun no exploro nada
+[31Jan2025 03:29:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Gravedigger]
+[31Jan2025 03:30:32.855] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[31Jan2025 03:31:01.557] [Worker-Main-119/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[31Jan2025 03:31:01.982] [Worker-Main-119/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=32, y=-6, z=784}
+[31Jan2025 03:31:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [Fortuitous Militia]
+[31Jan2025 03:33:08.581] [Worker-Main-119/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[31Jan2025 03:33:08.581] [Worker-Main-119/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[31Jan2025 03:33:11.642] [Worker-Main-96/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Jan2025 03:33:11.643] [Worker-Main-96/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Jan2025 03:33:18.787] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[31Jan2025 03:33:18.788] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[31Jan2025 03:34:24.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[31Jan2025 03:36:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
+[31Jan2025 03:37:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[31Jan2025 03:37:27.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]

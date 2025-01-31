@@ -310,6 +310,7 @@
       "minecraft:dripstone_caves": "2025-01-29 05:08:40 +0000",
       "minecraft:forest": "2025-01-28 23:18:25 +0000",
       "minecraft:lush_caves": "2025-01-29 05:00:36 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-31 03:31:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-29 00:06:20 +0000"
     },
     "done": false
@@ -523,6 +524,7 @@
       "minecraft:skeleton": "2025-01-29 04:36:26 +0000",
       "minecraft:ravager": "2025-01-30 05:27:11 +0000",
       "minecraft:spider": "2025-01-29 04:36:02 +0000",
+      "minecraft:creeper": "2025-01-31 03:37:56 +0000",
       "minecraft:evoker": "2025-01-30 05:20:28 +0000",
       "minecraft:cave_spider": "2025-01-29 05:06:29 +0000",
       "minecraft:stray": "2025-01-29 05:11:25 +0000",
@@ -545,6 +547,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_druid_circle": "2025-01-31 03:29:46 +0000",
       "entered_ruined_building": "2025-01-29 04:06:31 +0000"
     },
     "done": false
@@ -741,6 +744,18 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-31 03:31:26 +0000"
+    },
+    "done": false
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-01-31 03:29:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-01-31 03:08:52 +0000"
@@ -759,6 +774,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-31 03:28:53 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-31 03:17:20 +0000"
@@ -768,6 +789,12 @@
   "refinedstorage:connecting": {
     "criteria": {
       "cable_in_inventory": "2025-01-31 02:29:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-31 03:31:16 +0000"
     },
     "done": true
   },

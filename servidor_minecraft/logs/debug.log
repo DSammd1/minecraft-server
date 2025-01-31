@@ -14696,3 +14696,312 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 03:17:20.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Dark Metallurgy]
 [31Jan2025 03:18:13.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
 [31Jan2025 03:18:13.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:21:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ves transparente los cristales?
+[31Jan2025 03:21:46.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> ves los bordes?
+[31Jan2025 03:21:50.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> si
+[31Jan2025 03:22:11.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> se vefeo xd
+[31Jan2025 03:22:17.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> los cristales
+[31Jan2025 03:22:27.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> que podria poner
+[31Jan2025 03:22:28.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> creo debi poner ese mod que une cristales sin dar borde
+[31Jan2025 03:23:13.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:23:13.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:23:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> haz encontrado laestatua para subir corazones?
+[31Jan2025 03:24:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> nada
+[31Jan2025 03:24:36.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> aun no exploro nada
+[31Jan2025 03:26:49.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
+[31Jan2025 03:28:03.007] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-5, y=60, z=4}) doesn't have enough leaves around top most log
+[31Jan2025 03:28:13.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:28:13.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:28:22.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_path
+[31Jan2025 03:28:22.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_stables
+[31Jan2025 03:29:12.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_02
+[31Jan2025 03:29:16.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/forge/forge_1
+[31Jan2025 03:29:16.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/villagers/villager_stal
+[31Jan2025 03:29:16.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/bee_dome
+[31Jan2025 03:29:16.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[31Jan2025 03:29:16.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_oak
+[31Jan2025 03:29:16.416] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[31Jan2025 03:29:16.419] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[31Jan2025 03:29:16.421] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[31Jan2025 03:29:16.422] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[31Jan2025 03:29:16.425] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[31Jan2025 03:29:16.426] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[31Jan2025 03:29:16.428] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[31Jan2025 03:29:16.429] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[31Jan2025 03:29:16.431] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[31Jan2025 03:29:16.433] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[31Jan2025 03:29:16.434] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[31Jan2025 03:29:16.435] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[31Jan2025 03:29:16.437] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[31Jan2025 03:29:16.439] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[31Jan2025 03:29:16.440] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[31Jan2025 03:29:16.441] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[31Jan2025 03:29:16.443] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[31Jan2025 03:29:16.444] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[31Jan2025 03:29:16.446] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[31Jan2025 03:29:16.447] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[31Jan2025 03:29:16.448] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[31Jan2025 03:29:16.450] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[31Jan2025 03:29:16.451] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[31Jan2025 03:29:16.452] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[31Jan2025 03:29:16.454] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[31Jan2025 03:29:16.456] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[31Jan2025 03:29:16.457] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[31Jan2025 03:29:16.458] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[31Jan2025 03:29:16.459] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[31Jan2025 03:29:16.460] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[31Jan2025 03:29:16.461] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[31Jan2025 03:29:16.463] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[31Jan2025 03:29:16.464] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[31Jan2025 03:29:16.465] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[31Jan2025 03:29:16.467] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[31Jan2025 03:29:16.468] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[31Jan2025 03:29:16.468] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[31Jan2025 03:29:16.470] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[31Jan2025 03:29:16.470] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[31Jan2025 03:29:16.471] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[31Jan2025 03:29:16.471] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[31Jan2025 03:29:16.472] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[31Jan2025 03:29:16.473] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[31Jan2025 03:29:16.474] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[31Jan2025 03:29:16.475] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[31Jan2025 03:29:16.476] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[31Jan2025 03:29:16.477] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[31Jan2025 03:29:16.478] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[31Jan2025 03:29:16.479] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[31Jan2025 03:29:16.480] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[31Jan2025 03:29:16.480] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[31Jan2025 03:29:16.481] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[31Jan2025 03:29:16.481] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[31Jan2025 03:29:16.482] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[31Jan2025 03:29:16.483] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[31Jan2025 03:29:16.483] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[31Jan2025 03:29:16.484] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[31Jan2025 03:29:16.485] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[31Jan2025 03:29:16.486] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[31Jan2025 03:29:16.486] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[31Jan2025 03:29:16.487] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[31Jan2025 03:29:16.488] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[31Jan2025 03:29:16.489] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[31Jan2025 03:29:16.490] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[31Jan2025 03:29:16.491] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[31Jan2025 03:29:16.492] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[31Jan2025 03:29:16.493] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[31Jan2025 03:29:16.493] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[31Jan2025 03:29:16.495] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[31Jan2025 03:29:16.496] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[31Jan2025 03:29:16.496] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[31Jan2025 03:29:16.497] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[31Jan2025 03:29:16.498] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[31Jan2025 03:29:16.499] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[31Jan2025 03:29:16.500] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[31Jan2025 03:29:16.501] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[31Jan2025 03:29:16.502] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[31Jan2025 03:29:16.503] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[31Jan2025 03:29:16.503] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[31Jan2025 03:29:16.504] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[31Jan2025 03:29:16.505] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[31Jan2025 03:29:16.506] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[31Jan2025 03:29:16.507] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[31Jan2025 03:29:16.507] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[31Jan2025 03:29:16.508] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[31Jan2025 03:29:16.509] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[31Jan2025 03:29:16.510] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[31Jan2025 03:29:16.511] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[31Jan2025 03:29:16.512] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[31Jan2025 03:29:16.512] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[31Jan2025 03:29:16.514] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[31Jan2025 03:29:16.515] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[31Jan2025 03:29:16.518] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[31Jan2025 03:29:16.519] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[31Jan2025 03:29:16.520] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[31Jan2025 03:29:16.521] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[31Jan2025 03:29:16.521] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[31Jan2025 03:29:16.522] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[31Jan2025 03:29:16.523] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[31Jan2025 03:29:16.523] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[31Jan2025 03:29:16.524] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[31Jan2025 03:29:16.524] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[31Jan2025 03:29:16.525] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[31Jan2025 03:29:16.526] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[31Jan2025 03:29:16.526] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[31Jan2025 03:29:16.527] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[31Jan2025 03:29:16.527] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[31Jan2025 03:29:16.528] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[31Jan2025 03:29:16.528] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[31Jan2025 03:29:16.529] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[31Jan2025 03:29:16.529] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[31Jan2025 03:29:16.530] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[31Jan2025 03:29:16.530] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[31Jan2025 03:29:17.022] [Worker-Main-3/DEBUG] [ModernFix/]: Structure idas:cottage/cottage is being run through DFU (hash b4cec5301096de94c9d5d5fca25485e7f99e35df478c5ce3e37b09e28254bf1d), this will cause launch time delays
+[31Jan2025 03:29:18.732] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[31Jan2025 03:29:21.260] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[31Jan2025 03:29:21.264] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[31Jan2025 03:29:21.410] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk5
+[31Jan2025 03:29:21.412] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy5
+[31Jan2025 03:29:21.439] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[31Jan2025 03:29:21.442] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[31Jan2025 03:29:21.443] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[31Jan2025 03:29:21.444] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[31Jan2025 03:29:21.451] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[31Jan2025 03:29:21.451] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[31Jan2025 03:29:21.455] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk1
+[31Jan2025 03:29:21.486] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[31Jan2025 03:29:21.824] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[31Jan2025 03:29:21.827] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk3
+[31Jan2025 03:29:22.026] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[31Jan2025 03:29:22.047] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[31Jan2025 03:29:22.049] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk2
+[31Jan2025 03:29:22.050] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy2
+[31Jan2025 03:29:22.076] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4
+[31Jan2025 03:29:28.330] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[31Jan2025 03:29:28.355] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[31Jan2025 03:29:28.362] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[31Jan2025 03:29:28.689] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[31Jan2025 03:29:28.698] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[31Jan2025 03:29:28.732] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[31Jan2025 03:29:28.750] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[31Jan2025 03:29:29.181] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_13 is being run through DFU (hash be147b02042888c3ee04f32b1ec22eba46a28181be72f3defe68bcfa98203d41), this will cause launch time delays
+[31Jan2025 03:29:29.587] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[31Jan2025 03:29:31.050] [Worker-Main-119/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_5 is being run through DFU (hash 9cd4bda67dc02016e5967762c45c49cc3d6394c29b4e12457c7e1a493c44a983), this will cause launch time delays
+[31Jan2025 03:29:31.337] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk2
+[31Jan2025 03:29:31.480] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[31Jan2025 03:29:31.633] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[31Jan2025 03:29:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Gravedigger]
+[31Jan2025 03:29:46.075] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[31Jan2025 03:29:46.914] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[31Jan2025 03:29:47.757] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_skeletons:underground_chamber_deep
+[31Jan2025 03:29:47.812] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[31Jan2025 03:29:52.595] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[31Jan2025 03:30:05.372] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/witch_hut/witch_hut_1
+[31Jan2025 03:30:21.452] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[31Jan2025 03:30:22.901] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_skeletons:underground_chamber
+[31Jan2025 03:30:24.370] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:stables
+[31Jan2025 03:30:26.126] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[31Jan2025 03:30:26.697] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_temple/main
+[31Jan2025 03:30:27.971] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[31Jan2025 03:30:27.994] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[31Jan2025 03:30:32.545] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[31Jan2025 03:30:32.855] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[31Jan2025 03:30:32.856] [Worker-Main-120/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[31Jan2025 03:30:33.010] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_entrance
+[31Jan2025 03:30:39.323] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[31Jan2025 03:30:39.977] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[31Jan2025 03:30:40.005] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[31Jan2025 03:30:40.019] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/main
+[31Jan2025 03:30:40.031] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/medium2
+[31Jan2025 03:30:40.078] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/rock_house1
+[31Jan2025 03:30:40.087] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[31Jan2025 03:30:40.098] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[31Jan2025 03:30:41.657] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[31Jan2025 03:30:41.785] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[31Jan2025 03:31:01.557] [Worker-Main-119/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[31Jan2025 03:31:01.602] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[31Jan2025 03:31:01.786] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[31Jan2025 03:31:01.982] [Worker-Main-119/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=32, y=-6, z=784}
+[31Jan2025 03:31:14.764] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[31Jan2025 03:31:15.209] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[31Jan2025 03:31:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has reached the goal [Fortuitous Militia]
+[31Jan2025 03:31:35.347] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[31Jan2025 03:31:35.360] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[31Jan2025 03:31:35.370] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[31Jan2025 03:31:35.394] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[31Jan2025 03:31:35.410] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[31Jan2025 03:31:35.419] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[31Jan2025 03:31:35.435] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[31Jan2025 03:31:35.479] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[31Jan2025 03:31:35.522] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[31Jan2025 03:31:35.609] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[31Jan2025 03:31:35.622] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[31Jan2025 03:31:35.627] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[31Jan2025 03:31:35.636] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[31Jan2025 03:31:35.645] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[31Jan2025 03:31:35.671] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[31Jan2025 03:31:35.682] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[31Jan2025 03:31:35.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[31Jan2025 03:31:35.704] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[31Jan2025 03:31:35.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[31Jan2025 03:31:35.722] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[31Jan2025 03:31:35.765] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[31Jan2025 03:31:35.786] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[31Jan2025 03:31:35.817] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[31Jan2025 03:31:35.837] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[31Jan2025 03:31:35.887] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[31Jan2025 03:31:35.914] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[31Jan2025 03:31:35.946] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[31Jan2025 03:31:37.164] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[31Jan2025 03:31:37.582] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[31Jan2025 03:31:37.608] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_triple_0 is being run through DFU (hash b7d207f9e9204ae5d8d65d8199c23198e1b71579ed216248201d64790d7cf759), this will cause launch time delays
+[31Jan2025 03:31:38.788] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[31Jan2025 03:31:45.572] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[31Jan2025 03:31:46.265] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[31Jan2025 03:31:50.190] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[31Jan2025 03:31:51.397] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/bridge1
+[31Jan2025 03:31:51.407] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[31Jan2025 03:31:51.422] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_watchtower
+[31Jan2025 03:31:53.052] [Worker-Main-120/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[31Jan2025 03:31:59.128] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/ancient_portal1
+[31Jan2025 03:31:59.152] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/ancient_portal2
+[31Jan2025 03:31:59.172] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[31Jan2025 03:31:59.179] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/doorway
+[31Jan2025 03:31:59.195] [Worker-Main-119/DEBUG] [ModernFix/]: Structure mvs:small_ship is being run through DFU (hash 66884b163c8113c7d48b13d7b313326e36c7d6af63c05a6351911d98d69c044a), this will cause launch time delays
+[31Jan2025 03:32:15.890] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[31Jan2025 03:32:39.548] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[31Jan2025 03:32:42.640] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[31Jan2025 03:33:08.581] [Worker-Main-119/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[31Jan2025 03:33:08.581] [Worker-Main-119/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[31Jan2025 03:33:09.374] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_tomb/root
+[31Jan2025 03:33:10.990] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[31Jan2025 03:33:11.641] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:bohut_1
+[31Jan2025 03:33:11.642] [Worker-Main-96/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Jan2025 03:33:11.643] [Worker-Main-96/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Jan2025 03:33:12.216] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[31Jan2025 03:33:13.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:33:13.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:33:18.787] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[31Jan2025 03:33:18.788] [Worker-Main-120/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[31Jan2025 03:33:20.371] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[31Jan2025 03:33:20.422] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin2 is being run through DFU (hash 3e17a0e166a52072f2162ea9451b7a9a350f7e1097a27f8e26f090bb8643d5ea), this will cause launch time delays
+[31Jan2025 03:33:20.631] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:pillager_camp/tent/general
+[31Jan2025 03:33:28.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[31Jan2025 03:33:28.418] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[31Jan2025 03:33:38.483] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[31Jan2025 03:33:38.598] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[31Jan2025 03:33:38.609] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[31Jan2025 03:33:38.945] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_19b is being run through DFU (hash d2635e0cda896f59b2f015663e11173f6367a06165e0cf5c3766589be6efc4f0), this will cause launch time delays
+[31Jan2025 03:33:39.434] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[31Jan2025 03:33:39.436] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy3
+[31Jan2025 03:33:48.788] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[31Jan2025 03:33:48.819] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[31Jan2025 03:33:48.841] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[31Jan2025 03:33:48.859] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[31Jan2025 03:33:48.872] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[31Jan2025 03:33:48.889] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[31Jan2025 03:34:06.761] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/desert_house/desert_house
+[31Jan2025 03:34:24.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[31Jan2025 03:35:40.264] [Worker-Main-119/DEBUG] [ModernFix/]: Structure valhelsia_structures:mobs/villagers/villager is being run through DFU (hash 212caccde2ea0afe305e8b39b764079e6ff5bca4597046976b0fbf52790beee5), this will cause launch time delays
+[31Jan2025 03:35:40.704] [Worker-Main-119/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[31Jan2025 03:35:42.549] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (596 | 44 | 1044).
+[31Jan2025 03:35:42.551] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[31Jan2025 03:35:42.552] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[31Jan2025 03:35:42.552] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[31Jan2025 03:35:42.552] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[31Jan2025 03:35:42.552] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[31Jan2025 03:35:42.552] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 5(5) Nodes and 4(0) Rooms
+[31Jan2025 03:35:42.552] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[31Jan2025 03:35:42.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(2) Nodes and 5(0) Rooms
+[31Jan2025 03:35:42.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[31Jan2025 03:35:42.553] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 6(0) Rooms
+[31Jan2025 03:35:43.227] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[31Jan2025 03:35:53.002] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[31Jan2025 03:35:53.162] [Worker-Main-96/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[31Jan2025 03:35:53.584] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[31Jan2025 03:36:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
+[31Jan2025 03:37:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
+[31Jan2025 03:37:27.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
+[31Jan2025 03:38:13.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:38:13.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:38:40.856] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2, y=59, z=-16}) doesn't have enough leaves around top most log
+[31Jan2025 03:38:54.954] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2, y=60, z=-6}) doesn't have enough leaves around top most log
+[31Jan2025 03:38:55.759] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2, y=61, z=-6}) doesn't have enough leaves around top most log
+[31Jan2025 03:38:56.558] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2, y=62, z=-6}) doesn't have enough leaves around top most log
