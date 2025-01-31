@@ -15005,3 +15005,20 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 03:38:54.954] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2, y=60, z=-6}) doesn't have enough leaves around top most log
 [31Jan2025 03:38:55.759] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2, y=61, z=-6}) doesn't have enough leaves around top most log
 [31Jan2025 03:38:56.558] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2, y=62, z=-6}) doesn't have enough leaves around top most log
+[31Jan2025 03:40:29.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Your First Receptacle]
+[31Jan2025 03:43:13.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:43:13.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:44:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> vuelvo a las 12 xd
+[31Jan2025 03:44:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> ok
+[31Jan2025 03:44:11.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSammd lost connection: Disconnected
+[31Jan2025 03:44:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd left the game
+[31Jan2025 03:45:28.039] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[31Jan2025 03:45:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was blown up by Creeper
+[31Jan2025 03:45:28.062] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mcgarden was created at position [x:3, y:64, z:-25, dim:minecraft:overworld]
+[31Jan2025 03:45:28.080] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 03:45:58.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by Barrel Zombie
+[31Jan2025 03:45:58.697] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mcgarden was created at position [x:3, y:62, z:-25, dim:minecraft:overworld]
+[31Jan2025 03:45:58.712] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 03:46:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Exorcism]
+[31Jan2025 03:48:13.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:48:13.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World

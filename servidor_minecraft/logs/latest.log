@@ -1824,3 +1824,13 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 03:36:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
 [31Jan2025 03:37:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Creative Mode]
 [31Jan2025 03:37:27.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DSammd: Set own game mode to Survival Mode]
+[31Jan2025 03:40:29.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Your First Receptacle]
+[31Jan2025 03:44:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> vuelvo a las 12 xd
+[31Jan2025 03:44:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> ok
+[31Jan2025 03:44:11.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DSammd lost connection: Disconnected
+[31Jan2025 03:44:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd left the game
+[31Jan2025 03:45:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was blown up by Creeper
+[31Jan2025 03:45:28.080] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 03:45:58.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by Barrel Zombie
+[31Jan2025 03:45:58.712] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 03:46:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Exorcism]
