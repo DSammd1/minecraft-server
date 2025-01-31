@@ -1790,3 +1790,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 02:28:14.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Exporting]
 [31Jan2025 02:28:22.149] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
 [31Jan2025 02:29:10.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Connecting]
+[31Jan2025 02:53:50.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mcgarden[/127.223.230.248:33923] logged in with entity id 42922 at (-77.62942989794219, 0.0, 2.6593703188380853)
+[31Jan2025 02:53:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden joined the game
+[31Jan2025 02:53:50.483] [Server thread/INFO] [Jade/]: Syncing config to Mcgarden (f99efff2-46c1-3aff-a2a5-e6a400aefb9f)
