@@ -14020,3 +14020,13 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 01:33:11.506] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
 [31Jan2025 01:33:13.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
 [31Jan2025 01:33:13.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 01:38:13.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 01:38:13.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 01:43:13.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 01:43:13.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 01:44:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Deceived Hopes]
+[31Jan2025 01:48:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden hit the ground too hard whilst trying to escape Corrupted Vindicator
+[31Jan2025 01:48:03.422] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mcgarden was created at position [x:-62, y:-28, z:32, dim:minecraft:overworld]
+[31Jan2025 01:48:03.430] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 01:48:13.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 01:48:13.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
