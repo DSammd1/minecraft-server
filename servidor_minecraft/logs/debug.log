@@ -14682,3 +14682,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 02:53:50.483] [Server thread/INFO] [Jade/]: Syncing config to Mcgarden (f99efff2-46c1-3aff-a2a5-e6a400aefb9f)
 [31Jan2025 02:58:13.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
 [31Jan2025 02:58:13.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:03:13.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:03:13.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:08:13.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 03:08:13.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 03:08:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd has made the advancement [Bonfire Lit]
