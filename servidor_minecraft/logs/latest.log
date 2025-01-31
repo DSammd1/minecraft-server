@@ -1766,3 +1766,4 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 00:29:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden joined the game
 [31Jan2025 00:29:46.726] [Server thread/INFO] [Jade/]: Syncing config to Mcgarden (f99efff2-46c1-3aff-a2a5-e6a400aefb9f)
 [31Jan2025 00:29:52.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6005ms or 120 ticks behind
+[31Jan2025 00:44:43.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has completed the challenge [Well, that was disgusting]
