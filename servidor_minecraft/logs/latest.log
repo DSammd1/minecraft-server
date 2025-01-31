@@ -1778,3 +1778,10 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 01:48:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [The Most Useful Key]
 [31Jan2025 01:48:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [A Fast Comeback]
 [31Jan2025 01:48:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Source of Evil]
+[31Jan2025 01:58:29.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DSammd[/127.104.179.96:56869] logged in with entity id 29773 at (-370.20461670563526, 103.0, 221.75980845287353)
+[31Jan2025 01:58:29.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DSammd joined the game
+[31Jan2025 01:58:29.799] [Server thread/INFO] [Jade/]: Syncing config to DSammd (2bccbfd2-98d0-3571-a853-f885b34fe429)
+[31Jan2025 02:01:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mcgarden> vuelvop voy a tomar agua
+[31Jan2025 02:01:12.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DSammd> xd
+[31Jan2025 02:01:15.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mcgarden lost connection: Disconnected
+[31Jan2025 02:01:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden left the game
