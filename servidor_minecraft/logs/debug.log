@@ -15040,3 +15040,12 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 04:13:13.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
 [31Jan2025 04:18:13.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
 [31Jan2025 04:18:13.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 04:23:13.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 04:23:13.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World
+[31Jan2025 04:24:44.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by The Horrors
+[31Jan2025 04:24:44.294] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mcgarden was created at position [x:0, y:66, z:-24, dim:minecraft:overworld]
+[31Jan2025 04:24:44.304] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 04:25:40.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has completed the challenge [My Bald Satanic Goth Girl Friend]
+[31Jan2025 04:25:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [First big catch of the month!]
+[31Jan2025 04:28:13.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DSammd World
+[31Jan2025 04:28:13.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DSammd World

@@ -1835,3 +1835,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 03:45:58.712] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
 [31Jan2025 03:46:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [Exorcism]
 [31Jan2025 04:09:07.299] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c2b2ef6[id=<null>,name=RobustGooner,properties={},legacy=false] (/127.42.169.215:41485) lost connection: Disconnected
+[31Jan2025 04:24:44.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden was slain by The Horrors
+[31Jan2025 04:24:44.304] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 04:25:40.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has completed the challenge [My Bald Satanic Goth Girl Friend]
+[31Jan2025 04:25:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [First big catch of the month!]
