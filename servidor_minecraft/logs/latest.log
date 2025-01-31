@@ -1775,3 +1775,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [31Jan2025 01:44:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Deceived Hopes]
 [31Jan2025 01:48:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden hit the ground too hard whilst trying to escape Corrupted Vindicator
 [31Jan2025 01:48:03.430] [Server thread/INFO] [tombstone/]: The player Mcgarden has successfully been saved
+[31Jan2025 01:48:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [The Most Useful Key]
+[31Jan2025 01:48:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has reached the goal [A Fast Comeback]
+[31Jan2025 01:48:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mcgarden has made the advancement [Source of Evil]
