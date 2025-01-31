@@ -685,89 +685,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-30 06:17:05 +0000"
-    },
-    "done": false
-  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-01-30 03:45:51 +0000"
     },
     "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-01-30 03:57:54 +0000"
-    },
-    "done": false
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
@@ -781,45 +703,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
+  "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "has_item": "2025-01-30 04:32:41 +0000"
+      "illager_camp": "2025-01-30 03:57:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:adventure/shoot_arrow": {
+  "dungeons_enhanced:ahoy": {
     "criteria": {
-      "shot_arrow": "2025-01-30 04:19:12 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-01-30 04:32:41 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_horde": {
-    "criteria": {
-      "kill_horde": "2025-01-30 04:56:29 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "ghoul": "2025-01-30 04:56:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-30 04:21:39 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horrorofthe_depths": {
-    "criteria": {
-      "horrorofthe_depths_0": "2025-01-30 04:54:59 +0000"
+      "entered_pirate_ship": "2025-01-30 04:16:37 +0000"
     },
     "done": true
   },
@@ -835,15 +727,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "coded_trigger": "2025-01-30 04:23:11 +0000"
+      "shot_arrow": "2025-01-30 04:19:12 +0000"
     },
     "done": true
   },
-  "dungeons_enhanced:ahoy": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "entered_pirate_ship": "2025-01-30 04:16:37 +0000"
+      "voluntary_exile": "2025-01-30 04:21:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 04:23:11 +0000"
     },
     "done": true
   },
@@ -852,6 +750,108 @@
       "criteria": "2025-01-30 04:27:22 +0000"
     },
     "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-01-30 04:32:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-01-30 04:32:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-01-30 04:54:59 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-01-30 04:56:29 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-01-30 04:56:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-31 00:20:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
