@@ -419,9 +419,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-30 04:52:36 +0000",
+      "cooked_beef": "2025-01-31 00:47:05 +0000",
       "apple": "2025-01-28 23:36:01 +0000",
+      "cooked_cod": "2025-01-31 00:45:30 +0000",
       "bread": "2025-01-28 23:39:59 +0000",
       "golden_apple": "2025-01-30 04:22:28 +0000",
+      "cooked_rabbit": "2025-01-31 00:45:06 +0000",
       "cooked_chicken": "2025-01-30 04:46:03 +0000"
     },
     "done": false
@@ -780,6 +783,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-01-30 04:56:29 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-01-31 00:44:43 +0000"
     },
     "done": true
   },
